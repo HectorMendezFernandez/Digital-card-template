@@ -11,7 +11,7 @@ function FooterSection() {
         <a href=""><FontAwesomeIcon className='icon-sec' icon={faTwitter} /></a>
         <a href=""><FontAwesomeIcon className='icon-sec' icon={faFacebook} /></a>
         <a href=""><FontAwesomeIcon className='icon-sec' icon={faInstagram} /></a>
-        <a href=""><FontAwesomeIcon className='icon-sec' icon={faGithub} /></a>
+        <a href="https://github.com/HectorMendezFernandez"><FontAwesomeIcon className='icon-sec' icon={faGithub} /></a>
     </section>
    </footer>
   )
