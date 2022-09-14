@@ -1,0 +1,98 @@
+.main-content{
+  background-color:rgb(26, 27, 33);
+  display: block;
+  align-items: center;
+  width: 480px;
+  height: 100vh;
+}
+
+.img-sec{
+  margin-top: 40px;
+  max-width: 400px;
+  max-height: 500px;
+}
+
+.div-img{
+  width: 100%;
+  height: 310px;
+  border-radius: 20px 20px 0px 0px;
+  margin-left: 40px;
+}
+
+.name-sec{
+  margin:20px;
+  text-align: center;
+}
+
+.name-sec >h2{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 35px;
+}
+
+.name-sec > h4{
+  color: rgb(161, 124, 101);
+  font-size: 20px;
+  margin-bottom: 15px;
+} 
+
+.buttons-sec{
+  display: flex;
+}
+
+.buttons-sec > button{
+  width: 190px;
+  height: 50px;
+  margin: 20px 20px 20px 20px;
+  border-radius: 20%;
+
+}
+
+.buttons-sec > button:hover{
+  background-color:rgb(135, 187, 247) ;;
+}
+
+.icon-sec{
+  font-size: 20px;
+}
+
+.but-inf{
+  margin: 0px 10px;
+  padding: 0;
+  font-size: 15px;
+}
+
+.Linkedln-button, .Email-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Linkedln-button{
+  color: white;
+  background-color:rgb(80, 147, 226) ;
+}
+
+.about-subt{
+  font-size: 22px;
+  padding: 10px;
+}
+
+.p-info{
+  line-height: 20px;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.icons-foot{
+  height: 110px;
+  background-color:rgb(22, 22, 25) ;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.icon-sec{
+  color: white;
+  height: 45px;
+
+}
