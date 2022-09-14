@@ -1,6 +1,5 @@
 import React from 'react'
 import picture from '../assets/perfil1.jpg'
-import netsoPugno from '../assets/netsonetso.jpeg'
 import '../App.css'
 
 function ImageSection() {
